@@ -12,7 +12,7 @@
 - 💬 ask me about: html, css, js
 - 🧙 learning MORE about: open source, gnu/linux, etc (**UBUNTU IS BLOAT BTW**)
 - 🤍 i like:  video games, jrpgs, rhythm games, persona5, anime, love live, pink/cute things, stuffed animals, ...
-  - 🧸 there's also a ton of other but temporary interests i obsess about, only to forget them later - cos my mind is built different 🤪
+  - 🧸 there's also a ton of other but temporary interests i obsess about, only to forget them later - cos my mind is built different
 - 😵 i might be "cringe" or annoying at times, but im trying my best... 
 <!--
 **sweatshirts/sweatshirts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
