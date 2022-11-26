@@ -1,5 +1,19 @@
-### Hi there 👋
+<h3 align="center">👋 hewwo! i'm rina</h3>
+<p align="center">🧃 i like energy drinks and hoodies (hence the username lul) 🌸</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sweatshirts&style=flat-square&color=ff69b4" alt="page views" /></p>
 
+---
+<p align="center">✨ i am just a 24 year-old nerd from somewhere in serbia. im far from being good,<br/> and for now i only really try coding when im bored and have nothing else to do ✨ </p>
+
+<p align="left">basic info:</p>
+
+- 🧃 name: rina
+- 😄 pronouns: she/her   
+- 💬 ask me about: html, css, js
+- 🧙 learning MORE about: open source, gnu/linux, etc (**UBUNTU IS BLOAT BTW**)
+- 🤍 i like:  video games, jrpgs, rhythm games, persona5, anime, love live, pink/cute things, stuffed animals, ...
+  - 🧸 there's also a ton of other but temporary interests i obsess about, only to forget them later - cos my mind is built different 🤪
+- 😵 i might be "cringe" or annoying at times, but im trying my best... 
 <!--
 **sweatshirts/sweatshirts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
